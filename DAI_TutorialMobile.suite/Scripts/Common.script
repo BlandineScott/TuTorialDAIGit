@@ -1,0 +1,14 @@
+﻿To Connect
+	if ConnectionInfo() = empty
+		Connect "TutorialSUT"
+	end if
+	
+End Connect
+-----------------------
+To clickButton Icon,text
+	Log "This is the icon to click"&&Icon
+	Log "This is the text to click"&&text
+	
+	Click Icon
+	Assert that imagefound(text:Text)
+End clickButton
