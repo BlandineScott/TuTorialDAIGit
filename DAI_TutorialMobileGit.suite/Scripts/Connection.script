@@ -3,3 +3,4 @@ setoption ScriptTracing, true*)
 Wait 3
 Connect "TutorialSUT"
 Wait 2
+CaptureScreen "Connection"

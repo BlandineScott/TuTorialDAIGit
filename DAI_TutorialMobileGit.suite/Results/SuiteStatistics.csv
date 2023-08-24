@@ -1,6 +1,6 @@
 ﻿Script,Last Status,Runs,Fails,First Run,Last Run,Avg Time(Success)
-TutorialMobile/Contacts,Success,3,0,2023-04-18 16:51:10 -0500,2023-04-18 16:53:02 -0500,0:00:01
-TutorialMobile/Favorites,Success,3,0,2023-04-18 16:45:42 -0500,2023-05-11 16:21:07 -0500,0:00:01
 TutorialMobile/Downloads,Success,3,0,2023-04-18 16:51:11 -0500,2023-04-18 16:53:04 -0500,0:00:00
-Master,Success,49,6,2023-01-24 09:38:40 -0600,2023-08-24 09:29:31 -0500,0:00:04
+TutorialMobile/Favorites,Success,3,0,2023-04-18 16:45:42 -0500,2023-05-11 16:21:07 -0500,0:00:01
+TutorialMobile/Contacts,Success,3,0,2023-04-18 16:51:10 -0500,2023-04-18 16:53:02 -0500,0:00:01
 TutorialMobile/History,Success,3,0,2023-04-18 16:51:11 -0500,2023-04-18 16:53:04 -0500,0:00:01
+Master,Success,49,6,2023-01-24 09:38:40 -0600,2023-08-24 09:29:31 -0500,0:00:04
