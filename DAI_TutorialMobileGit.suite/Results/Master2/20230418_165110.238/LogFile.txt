@@ -1,0 +1,11 @@
+﻿2023-04-18 16:51:10.251 -0500	START		Running Master2.script
+2023-04-18 16:51:10.333 -0500	runwithnewresults		Connection.script (C:/Eggplant/DAI_TutorialMobile.suite/Results/Connection/20230418_165110.330/LogFile.txt)	2	on_master2	Master2.script
+2023-04-18 16:51:10.391 -0500	runwithnewresults		Contacts.script (C:/Eggplant/DAI_TutorialMobile.suite/Results/Contacts/20230418_165110.388/LogFile.txt)	10	on_master2	Master2.script
+2023-04-18 16:51:11.464 -0500	runwithnewresults		Downloads.script (C:/Eggplant/DAI_TutorialMobile.suite/Results/Downloads/20230418_165111.462/LogFile.txt)	10	on_master2	Master2.script
+2023-04-18 16:51:11.547 -0500	runwithnewresults		History.script (C:/Eggplant/DAI_TutorialMobile.suite/Results/History/20230418_165111.544/LogFile.txt)	10	on_master2	Master2.script
+2023-04-18 16:51:12.656 -0500	Log		Final Results:	17	on_master2	Master2.script
+2023-04-18 16:51:12.659 -0500	Log		Contacts: Success 	19	on_master2	Master2.script
+2023-04-18 16:51:12.661 -0500	Log		Downloads: Success 	19	on_master2	Master2.script
+2023-04-18 16:51:12.663 -0500	Log		History: Success 	19	on_master2	Master2.script
+2023-04-18 16:51:12.685 -0500	EndTestCase		(Duration:"2.43", Errors:"0", Exceptions:"0", StartTime:"2023-04-18 16:51:10 -0500", Successes:"5", TestCase:"Master2.script", Warnings:"0")
+2023-04-18 16:51:12.735 -0500	SUCCESS		Execution Time 0:00:02 Master2.script

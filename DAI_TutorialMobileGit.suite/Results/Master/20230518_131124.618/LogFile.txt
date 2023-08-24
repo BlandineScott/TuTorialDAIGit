@@ -1,0 +1,20 @@
+﻿2023-05-18 13:11:24.623 -0500	START		Running Master.script
+2023-05-18 13:11:25.017 -0500	click	Contacts_Icon	at (53, 595)	1	on_contacts	Contacts.script
+2023-05-18 13:11:25.044 -0500	capturescreen	C:/Eggplant/DAI_TutorialMobile.suite/Results/Master/20230518_131124.618/Contacts_Screen_Validation.png	UserCapturedScreenshot	C5C4511C-CDEA-F505-6FBD-8A64F852FE75	2	on_contacts	Contacts.script
+2023-05-18 13:11:25.880 -0500	imagefound	(TEXT:"Not a real phone")	found at (105, 213)	3	on_contacts	Contacts.script
+2023-05-18 13:11:25.883 -0500	LogSuccess		Assertion Succeeded: (true: imagefound(text:"Not a real phone"))	3	on_contacts	Contacts.script
+2023-05-18 13:11:26.411 -0500	click	Favorites_Icon	at (160, 604)	1	on_favorites	Favorites.script
+2023-05-18 13:11:26.437 -0500	capturescreen	C:/Eggplant/DAI_TutorialMobile.suite/Results/Master/20230518_131124.618/Favorites_Screen_Validation.png	UserCapturedScreenshot	492476F1-ED94-8808-48FD-F13BCE7A60DE	2	on_favorites	Favorites.script
+2023-05-18 13:11:27.262 -0500	imagefound	(TEXT:"Still not a real phone")	found at (125, 213)	3	on_favorites	Favorites.script
+2023-05-18 13:11:27.265 -0500	LogSuccess		Assertion Succeeded: (true: imagefound(text:"Still not a real phone"))	3	on_favorites	Favorites.script
+2023-05-18 13:11:27.473 -0500	click	History_Icon	at (267, 602)	1	on_history	History.script
+2023-05-18 13:11:27.499 -0500	capturescreen	C:/Eggplant/DAI_TutorialMobile.suite/Results/Master/20230518_131124.618/History_Screen_Validation.png	UserCapturedScreenshot	791F412D-C8FC-2202-5D42-44FB7FBC7992	2	on_history	History.script
+2023-05-18 13:11:28.298 -0500	imagefound	(TEXT:"Totally fake.")	found at (78, 213)	3	on_history	History.script
+2023-05-18 13:11:28.300 -0500	LogSuccess		Assertion Succeeded: (true: imagefound(text:"Totally fake."))	3	on_history	History.script
+2023-05-18 13:11:28.509 -0500	click	Downloads_Icon	at (372, 602)	1	on_downloads	Downloads.script
+2023-05-18 13:11:28.535 -0500	capturescreen	C:/Eggplant/DAI_TutorialMobile.suite/Results/Master/20230518_131124.618/Downloads_Screen_Validation.png	UserCapturedScreenshot	1D227EFC-9399-CB0B-5A9A-4BC5820ED044	2	on_downloads	Downloads.script
+2023-05-18 13:11:29.345 -0500	imagefound	(TEXT:"The phone is a lie.")	found at (113, 213)	3	on_downloads	Downloads.script
+2023-05-18 13:11:29.348 -0500	LogSuccess		Assertion Succeeded: (true: imagefound(text:"The phone is a lie."))	3	on_downloads	Downloads.script
+2023-05-18 13:11:29.367 -0500	Log		The test has ended.	1	on_endscript	EndScript.script
+2023-05-18 13:11:29.392 -0500	EndTestCase		(Duration:"4.765", Errors:"0", Exceptions:"0", StartTime:"2023-05-18 13:11:24 -0500", Successes:"4", TestCase:"Master.script", Warnings:"0")
+2023-05-18 13:11:29.458 -0500	SUCCESS		Execution Time 0:00:04 Master.script

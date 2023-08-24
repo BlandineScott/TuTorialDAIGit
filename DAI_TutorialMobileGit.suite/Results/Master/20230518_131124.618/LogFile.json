@@ -1,0 +1,168 @@
+{
+	"entries": [
+		{
+				"message": "Running Master.script",
+				"identifier": "START",
+				"timestamp": "2023-05-18 13:11:24.623 -0500"
+			},
+		{
+				"handlerName": "on_contacts",
+				"timestamp": "2023-05-18 13:11:25.017 -0500",
+				"scriptName": "Contacts.script",
+				"message": "at (53, 595)",
+				"image": "Contacts_Icon",
+				"handlerLine": 1,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_contacts",
+				"timestamp": "2023-05-18 13:11:25.044 -0500",
+				"scriptName": "Contacts.script",
+				"message": "UserCapturedScreenshot",
+				"image": "C:/Eggplant/DAI_TutorialMobile.suite/Results/Master/20230518_131124.618/Contacts_Screen_Validation.png",
+				"handlerLine": 2,
+				"identifier": "capturescreen"
+			},
+		{
+				"handlerName": "on_contacts",
+				"timestamp": "2023-05-18 13:11:25.880 -0500",
+				"scriptName": "Contacts.script",
+				"message": "found at (105, 213)",
+				"image": "(TEXT:\"Not a real phone\")",
+				"handlerLine": 3,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_contacts",
+				"timestamp": "2023-05-18 13:11:25.883 -0500",
+				"message": "Assertion Succeeded: (true: imagefound(text:\"Not a real phone\"))",
+				"scriptName": "Contacts.script",
+				"handlerLine": 3,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_favorites",
+				"timestamp": "2023-05-18 13:11:26.411 -0500",
+				"scriptName": "Favorites.script",
+				"message": "at (160, 604)",
+				"image": "Favorites_Icon",
+				"handlerLine": 1,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_favorites",
+				"timestamp": "2023-05-18 13:11:26.437 -0500",
+				"scriptName": "Favorites.script",
+				"message": "UserCapturedScreenshot",
+				"image": "C:/Eggplant/DAI_TutorialMobile.suite/Results/Master/20230518_131124.618/Favorites_Screen_Validation.png",
+				"handlerLine": 2,
+				"identifier": "capturescreen"
+			},
+		{
+				"handlerName": "on_favorites",
+				"timestamp": "2023-05-18 13:11:27.262 -0500",
+				"scriptName": "Favorites.script",
+				"message": "found at (125, 213)",
+				"image": "(TEXT:\"Still not a real phone\")",
+				"handlerLine": 3,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_favorites",
+				"timestamp": "2023-05-18 13:11:27.265 -0500",
+				"message": "Assertion Succeeded: (true: imagefound(text:\"Still not a real phone\"))",
+				"scriptName": "Favorites.script",
+				"handlerLine": 3,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_history",
+				"timestamp": "2023-05-18 13:11:27.473 -0500",
+				"scriptName": "History.script",
+				"message": "at (267, 602)",
+				"image": "History_Icon",
+				"handlerLine": 1,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_history",
+				"timestamp": "2023-05-18 13:11:27.499 -0500",
+				"scriptName": "History.script",
+				"message": "UserCapturedScreenshot",
+				"image": "C:/Eggplant/DAI_TutorialMobile.suite/Results/Master/20230518_131124.618/History_Screen_Validation.png",
+				"handlerLine": 2,
+				"identifier": "capturescreen"
+			},
+		{
+				"handlerName": "on_history",
+				"timestamp": "2023-05-18 13:11:28.298 -0500",
+				"scriptName": "History.script",
+				"message": "found at (78, 213)",
+				"image": "(TEXT:\"Totally fake.\")",
+				"handlerLine": 3,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_history",
+				"timestamp": "2023-05-18 13:11:28.300 -0500",
+				"message": "Assertion Succeeded: (true: imagefound(text:\"Totally fake.\"))",
+				"scriptName": "History.script",
+				"handlerLine": 3,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_downloads",
+				"timestamp": "2023-05-18 13:11:28.509 -0500",
+				"scriptName": "Downloads.script",
+				"message": "at (372, 602)",
+				"image": "Downloads_Icon",
+				"handlerLine": 1,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_downloads",
+				"timestamp": "2023-05-18 13:11:28.535 -0500",
+				"scriptName": "Downloads.script",
+				"message": "UserCapturedScreenshot",
+				"image": "C:/Eggplant/DAI_TutorialMobile.suite/Results/Master/20230518_131124.618/Downloads_Screen_Validation.png",
+				"handlerLine": 2,
+				"identifier": "capturescreen"
+			},
+		{
+				"handlerName": "on_downloads",
+				"timestamp": "2023-05-18 13:11:29.345 -0500",
+				"scriptName": "Downloads.script",
+				"message": "found at (113, 213)",
+				"image": "(TEXT:\"The phone is a lie.\")",
+				"handlerLine": 3,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_downloads",
+				"timestamp": "2023-05-18 13:11:29.348 -0500",
+				"message": "Assertion Succeeded: (true: imagefound(text:\"The phone is a lie.\"))",
+				"scriptName": "Downloads.script",
+				"handlerLine": 3,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_endscript",
+				"timestamp": "2023-05-18 13:11:29.367 -0500",
+				"message": "The test has ended.",
+				"scriptName": "EndScript.script",
+				"handlerLine": 1,
+				"identifier": "Log"
+			},
+		{
+				"message": "(Duration:\"4.765\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2023-05-18 13:11:24 -0500\", Successes:\"4\", TestCase:\"Master.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-05-18 13:11:29.392 -0500"
+			},
+		{
+				"message": "Execution Time 0:00:04 Master.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2023-05-18 13:11:29.458 -0500"
+			}
+	],
+	"createdTimestamp": "2023-05-18 13:11:24.626 -0500"
+}

@@ -1,0 +1,63 @@
+{
+	"entries": [
+		{
+				"message": "Running Workflow/Downloads_Workflow.script",
+				"identifier": "START",
+				"timestamp": "2023-05-18 13:11:45.931 -0500"
+			},
+		{
+				"handlerName": "on_downloads",
+				"timestamp": "2023-05-18 13:11:46.207 -0500",
+				"scriptName": "Downloads.script",
+				"message": "at (370, 600)",
+				"image": "Downloads_Icon",
+				"handlerLine": 1,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_downloads",
+				"timestamp": "2023-05-18 13:11:46.231 -0500",
+				"scriptName": "Downloads.script",
+				"message": "UserCapturedScreenshot",
+				"image": "C:/Eggplant/DAI_TutorialMobile.suite/Results/Workflow/Downloads_Workflow/20230518_131145.925/Downloads_Screen_Validation.png",
+				"handlerLine": 2,
+				"identifier": "capturescreen"
+			},
+		{
+				"handlerName": "on_downloads",
+				"timestamp": "2023-05-18 13:11:47.027 -0500",
+				"scriptName": "Downloads.script",
+				"message": "found at (113, 213)",
+				"image": "(TEXT:\"The phone is a lie.\")",
+				"handlerLine": 3,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_downloads",
+				"timestamp": "2023-05-18 13:11:47.029 -0500",
+				"message": "Assertion Succeeded: (true: imagefound(text:\"The phone is a lie.\"))",
+				"scriptName": "Downloads.script",
+				"handlerLine": 3,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_endscript",
+				"timestamp": "2023-05-18 13:11:47.050 -0500",
+				"message": "The test has ended.",
+				"scriptName": "EndScript.script",
+				"handlerLine": 1,
+				"identifier": "Log"
+			},
+		{
+				"message": "(Duration:\"1.143\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2023-05-18 13:11:45 -0500\", Successes:\"1\", TestCase:\"Workflow/Downloads_Workflow.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-05-18 13:11:47.078 -0500"
+			},
+		{
+				"message": "Execution Time 0:00:01 Workflow/Downloads_Workflow.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2023-05-18 13:11:47.145 -0500"
+			}
+	],
+	"createdTimestamp": "2023-05-18 13:11:45.933 -0500"
+}

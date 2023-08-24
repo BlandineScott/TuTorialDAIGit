@@ -1,0 +1,2 @@
+﻿Click (Image:"History_Icon", WaitFor:10)
+Assert that imagefound(text:"Totally fake.")

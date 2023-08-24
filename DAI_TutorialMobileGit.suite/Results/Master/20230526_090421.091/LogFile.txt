@@ -1,0 +1,20 @@
+﻿2023-05-26 09:04:21.097 -0500	START		Running Master.script
+2023-05-26 09:04:21.435 -0500	click	TutorialMobile/Contacts_Icon	at (53, 600)	1	on_contacts	TutorialMobile/Contacts.script
+2023-05-26 09:04:21.462 -0500	capturescreen	Contacts_Screen_Validation.png		2	on_contacts	TutorialMobile/Contacts.script
+2023-05-26 09:04:22.333 -0500	imagefound	(TEXT:"Not a real phone")	found at (105, 213)	3	on_contacts	TutorialMobile/Contacts.script
+2023-05-26 09:04:22.335 -0500	LogSuccess		Assertion Succeeded: (true: imagefound(text:"Not a real phone"))	3	on_contacts	TutorialMobile/Contacts.script
+2023-05-26 09:04:22.555 -0500	click	TutorialMobile/Downloads_Icon	at (372, 602)	1	on_downloads	TutorialMobile/Downloads.script
+2023-05-26 09:04:22.632 -0500	capturescreen	Downloads_Screen_Validation.png		2	on_downloads	TutorialMobile/Downloads.script
+2023-05-26 09:04:23.397 -0500	imagefound	(TEXT:"The phone is a lie.")	found at (113, 213)	3	on_downloads	TutorialMobile/Downloads.script
+2023-05-26 09:04:23.399 -0500	LogSuccess		Assertion Succeeded: (true: imagefound(text:"The phone is a lie."))	3	on_downloads	TutorialMobile/Downloads.script
+2023-05-26 09:04:23.630 -0500	click	TutorialMobile/Favorites_Icon	at (160, 604)	1	on_favorites	TutorialMobile/Favorites.script
+2023-05-26 09:04:23.705 -0500	capturescreen	Favorites_Screen_Validation.png		2	on_favorites	TutorialMobile/Favorites.script
+2023-05-26 09:04:24.476 -0500	imagefound	(TEXT:"Still not a real phone")	found at (125, 213)	3	on_favorites	TutorialMobile/Favorites.script
+2023-05-26 09:04:24.479 -0500	LogSuccess		Assertion Succeeded: (true: imagefound(text:"Still not a real phone"))	3	on_favorites	TutorialMobile/Favorites.script
+2023-05-26 09:04:25.068 -0500	click	TutorialMobile/History_Icon	at (267, 602)	1	on_history	TutorialMobile/History.script
+2023-05-26 09:04:25.084 -0500	capturescreen	History_Screen_Validation.png		2	on_history	TutorialMobile/History.script
+2023-05-26 09:04:25.900 -0500	imagefound	(TEXT:"Totally fake.")	found at (78, 213)	3	on_history	TutorialMobile/History.script
+2023-05-26 09:04:25.902 -0500	LogSuccess		Assertion Succeeded: (true: imagefound(text:"Totally fake."))	3	on_history	TutorialMobile/History.script
+2023-05-26 09:04:25.924 -0500	Log		The test has ended.	1	on_endscript	TutorialMobile/EndScript.script
+2023-05-26 09:04:25.957 -0500	EndTestCase		(Duration:"4.855", Errors:"0", Exceptions:"0", StartTime:"2023-05-26 09:04:21 -0500", Successes:"4", TestCase:"Master.script", Warnings:"0")
+2023-05-26 09:04:26.007 -0500	SUCCESS		Execution Time 0:00:04 Master.script

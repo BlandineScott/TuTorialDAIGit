@@ -1,0 +1,30 @@
+{
+	"entries": [
+		{
+				"message": "Running Master.script",
+				"identifier": "START",
+				"timestamp": "2023-05-23 11:27:45.162 -0500"
+			},
+		{
+				"handlerName": "on_contacts",
+				"timestamp": "2023-05-23 11:27:55.356 -0500",
+				"scriptName": "TutorialMobile/Contacts.script",
+				"message": "No Image Found On Screen: \"TutorialMobile/Contacts_Icon\"",
+				"image": "TutorialMobile/Contacts_Icon",
+				"handlerLine": 1,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"10.217\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2023-05-23 11:27:45 -0500\", Successes:\"0\", TestCase:\"Master.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-05-23 11:27:55.383 -0500"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "Image Not Found: click Error - No Image Found On Screen: \"TutorialMobile/Contacts_Icon\" -- Execution Time 0:00:10 Master.script",
+				"identifier": "FAILURE",
+				"timestamp": "2023-05-23 11:27:55.493 -0500"
+			}
+	],
+	"createdTimestamp": "2023-05-23 11:27:45.165 -0500"
+}

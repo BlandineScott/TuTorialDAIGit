@@ -1,0 +1,12 @@
+﻿2023-05-11 16:21:02.808 -0500	START		Running Master.script
+2023-05-11 16:21:02.887 -0500	Connect		TutorialSUT:(null)	5	on_connection	Connection.script
+2023-05-11 16:21:03.061 -0500	click	Contacts_Icon	at (53, 600)	1	on_contacts	Contacts.script
+2023-05-11 16:21:05.357 -0500	imagefound	(TEXT:"Not a real phone")	found at (105, 213)	2	on_contacts	Contacts.script
+2023-05-11 16:21:05.361 -0500	LogSuccess		Assertion Succeeded: (true: imagefound(text:"Not a real phone"))	2	on_contacts	Contacts.script
+2023-05-11 16:21:05.586 -0500	click	Favorites_Icon	at (160, 604)	1	on_favorites	Favorites.script
+2023-05-11 16:21:07.287 -0500	imagefound	(TEXT:"Still not a real phone")	found at (125, 213)	2	on_favorites	Favorites.script
+2023-05-11 16:21:07.291 -0500	LogSuccess		Assertion Succeeded: (true: imagefound(text:"Still not a real phone"))	2	on_favorites	Favorites.script
+2023-05-11 16:21:07.299 -0500	Log		The test has ended.	1	on_endscript	EndScript.script
+2023-05-11 16:21:07.322 -0500	runwithnewresults		Favorites.script (C:/Eggplant/DAI_TutorialMobile.suite/Results/Favorites/20230511_162107.320/LogFile.txt)	6	on_master	Master.script
+2023-05-11 16:21:09.189 -0500	EndTestCase		(Duration:"6.377", Errors:"0", Exceptions:"0", StartTime:"2023-05-11 16:21:02 -0500", Successes:"3", TestCase:"Master.script", Warnings:"0")
+2023-05-11 16:21:09.204 -0500	SUCCESS		Execution Time 0:00:06 Master.script

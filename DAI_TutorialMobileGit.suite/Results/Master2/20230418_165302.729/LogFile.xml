@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Master2_script" package="DAI_TutorialMobile.suite" timestamp="2023-04-18 16:53:02.729 -0500"
+ tests="1"  failures="0" errors="0" time="2.667000">
+  <properties>
+   <property name="RunDate" value="2023-04-18 16:53:02.729 -0500"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="Master2.script" assertions="5" status="success"  time="2.658">
+  </testcase>
+ </testsuite>
+</testsuites>

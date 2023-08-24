@@ -1,0 +1,5 @@
+﻿2023-04-18 16:50:20.682 -0500	START		Running Master2.script
+2023-04-18 16:50:20.749 -0500	Exception		Unable to locate script named: InitialTest	2	on_master2	Master2.script
+2023-04-18 16:50:20.786 -0500	EndTestCase		(Duration:"0.101", Errors:"1", Exceptions:"1", StartTime:"2023-04-18 16:50:20 -0500", Successes:"0", TestCase:"Master2.script", Warnings:"0")
+2023-04-18 16:50:20.862 -0500	Error Screen	C:/Eggplant/DAI_TutorialMobile.suite/Results/Master2/20230418_165020.678/Screen_Error.png	CapturedErrorScreenshot	04BB718B-F503-7F0F-7614-CEFBA11EA69E
+2023-04-18 16:50:20.866 -0500	FAILURE	Screen_Error.png	Error Running Script Command: runwithnewresults Error - Unable to locate script named: InitialTest -- Execution Time 0:00:00 Master2.script

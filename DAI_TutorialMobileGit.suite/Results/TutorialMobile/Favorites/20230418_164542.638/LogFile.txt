@@ -1,0 +1,6 @@
+﻿2023-04-18 16:45:42.644 -0500	START		Running Favorites.script	1	on_master	Master.script<SELECTION>
+2023-04-18 16:45:42.886 -0500	click	Favorites_Icon	at (160, 604)	1	on_favorites	Favorites.script
+2023-04-18 16:45:43.728 -0500	imagefound	(TEXT:"Still not a real phone")	found at (125, 213)	2	on_favorites	Favorites.script
+2023-04-18 16:45:43.730 -0500	LogSuccess		Assertion Succeeded: (true: imagefound(text:"Still not a real phone"))	2	on_favorites	Favorites.script
+2023-04-18 16:45:43.736 -0500	EndTestCase		(Duration:"1.089", Errors:"0", Exceptions:"0", StartTime:"2023-04-18 16:45:42 -0500", Successes:"1", TestCase:"Favorites.script", Warnings:"0")	1	on_master	Master.script<SELECTION>
+2023-04-18 16:45:43.776 -0500	SUCCESS		Execution Time 0:00:01 Favorites.script	1	on_master	Master.script<SELECTION>

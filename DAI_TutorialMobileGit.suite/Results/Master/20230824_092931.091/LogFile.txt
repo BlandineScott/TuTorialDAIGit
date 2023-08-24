@@ -1,0 +1,22 @@
+﻿2023-08-24 09:29:31.096 -0500	START		Running Master.script
+2023-08-24 09:29:31.210 -0500	Connect		TutorialSUT:(null)	1	on_master	Master.script
+2023-08-24 09:29:32.612 -0500	click	TutorialMobile/Contacts_Icon	at (53, 600)	1	on_contacts	TutorialMobile/Contacts.script
+2023-08-24 09:29:32.638 -0500	capturescreen	Contacts_Screen_Validation.png		2	on_contacts	TutorialMobile/Contacts.script
+2023-08-24 09:29:34.074 -0500	imagefound	(TEXT:"Not a real phone")	found at (105, 213)	3	on_contacts	TutorialMobile/Contacts.script
+2023-08-24 09:29:34.077 -0500	LogSuccess		Assertion Succeeded: (true: imagefound(text:"Not a real phone"))	3	on_contacts	TutorialMobile/Contacts.script
+2023-08-24 09:29:34.301 -0500	click	TutorialMobile/Downloads_Icon	at (372, 602)	1	on_downloads	TutorialMobile/Downloads.script
+2023-08-24 09:29:34.377 -0500	capturescreen	Downloads_Screen_Validation.png		2	on_downloads	TutorialMobile/Downloads.script
+2023-08-24 09:29:35.133 -0500	imagefound	(TEXT:"The phone is a lie.")	found at (113, 213)	3	on_downloads	TutorialMobile/Downloads.script
+2023-08-24 09:29:35.136 -0500	LogSuccess		Assertion Succeeded: (true: imagefound(text:"The phone is a lie."))	3	on_downloads	TutorialMobile/Downloads.script
+2023-08-24 09:29:35.360 -0500	click	TutorialMobile/Favorites_Icon	at (160, 604)	1	on_favorites	TutorialMobile/Favorites.script
+2023-08-24 09:29:35.376 -0500	capturescreen	Favorites_Screen_Validation.png		2	on_favorites	TutorialMobile/Favorites.script
+2023-08-24 09:29:36.198 -0500	imagefound	(TEXT:"Still not a real phone")	found at (125, 213)	3	on_favorites	TutorialMobile/Favorites.script
+2023-08-24 09:29:36.200 -0500	LogSuccess		Assertion Succeeded: (true: imagefound(text:"Still not a real phone"))	3	on_favorites	TutorialMobile/Favorites.script
+2023-08-24 09:29:36.423 -0500	click	TutorialMobile/History_Icon	at (267, 602)	1	on_history	TutorialMobile/History.script
+2023-08-24 09:29:36.439 -0500	capturescreen	History_Screen_Validation.png		2	on_history	TutorialMobile/History.script
+2023-08-24 09:29:37.254 -0500	imagefound	(TEXT:"Totally fake.")	found at (78, 213)	3	on_history	TutorialMobile/History.script
+2023-08-24 09:29:37.256 -0500	LogSuccess		Assertion Succeeded: (true: imagefound(text:"Totally fake."))	3	on_history	TutorialMobile/History.script
+2023-08-24 09:29:37.279 -0500	Log		The test has ended.	1	on_endscript	TutorialMobile/EndScript.script
+2023-08-24 09:29:37.406 -0500	Disconnect		Tutorial Connection	10	on_master	Master.script
+2023-08-24 09:29:37.567 -0500	EndTestCase		(Duration:"6.466", Errors:"0", Exceptions:"0", StartTime:"2023-08-24 09:29:31 -0500", Successes:"4", TestCase:"Master.script", Warnings:"0")
+2023-08-24 09:29:37.610 -0500	SUCCESS		Execution Time 0:00:06 Master.script

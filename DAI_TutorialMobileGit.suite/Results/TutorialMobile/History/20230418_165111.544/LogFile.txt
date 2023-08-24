@@ -1,0 +1,6 @@
+﻿2023-04-18 16:51:11.550 -0500	START		Running History.script	10	on_master2	Master2.script
+2023-04-18 16:51:11.778 -0500	click	History_Icon	at (267, 602)	1	on_history	History.script
+2023-04-18 16:51:12.584 -0500	imagefound	(TEXT:"Totally fake.")	found at (78, 213)	2	on_history	History.script
+2023-04-18 16:51:12.587 -0500	LogSuccess		Assertion Succeeded: (true: imagefound(text:"Totally fake."))	2	on_history	History.script
+2023-04-18 16:51:12.591 -0500	EndTestCase		(Duration:"1.038", Errors:"0", Exceptions:"0", StartTime:"2023-04-18 16:51:11 -0500", Successes:"1", TestCase:"History.script", Warnings:"0")	10	on_master2	Master2.script
+2023-04-18 16:51:12.637 -0500	SUCCESS		Execution Time 0:00:01 History.script	10	on_master2	Master2.script

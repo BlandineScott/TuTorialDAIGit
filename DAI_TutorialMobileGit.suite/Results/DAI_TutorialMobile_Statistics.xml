@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<statistics>
+ <script name="TutorialMobile/Contacts">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>3</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2023-04-18 16:51:10 -0500</FirstRun>
+  <LastRun>2023-04-18 16:53:02 -0500</LastRun>
+  <TotalTimeOnSuccess>3.178000</TotalTimeOnSuccess>
+ </script>
+ <script name="TutorialMobile/Favorites">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>3</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2023-04-18 16:45:42 -0500</FirstRun>
+  <LastRun>2023-05-11 16:21:07 -0500</LastRun>
+  <TotalTimeOnSuccess>4.745000</TotalTimeOnSuccess>
+ </script>
+ <script name="TutorialMobile/Downloads">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>3</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2023-04-18 16:51:11 -0500</FirstRun>
+  <LastRun>2023-04-18 16:53:04 -0500</LastRun>
+  <TotalTimeOnSuccess>0.033000</TotalTimeOnSuccess>
+ </script>
+ <script name="Master">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>49</NumberOfRuns>
+  <NumberOfFails>6</NumberOfFails>
+  <FirstRun>2023-01-24 09:38:40 -0600</FirstRun>
+  <LastRun>2023-08-24 09:29:31 -0500</LastRun>
+  <TotalTimeOnSuccess>194.991000</TotalTimeOnSuccess>
+ </script>
+ <script name="TutorialMobile/History">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>3</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2023-04-18 16:51:11 -0500</FirstRun>
+  <LastRun>2023-04-18 16:53:04 -0500</LastRun>
+  <TotalTimeOnSuccess>3.142000</TotalTimeOnSuccess>
+ </script>
+</statistics>

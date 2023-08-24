@@ -1,0 +1,5 @@
+﻿2023-05-16 10:51:41.418 -0500	START		Running Master.script
+2023-05-16 10:51:51.677 -0500	LogWarning		Unable to Find Image(s): Contacts_Icon.png, Contacts_Icon_Grey.png -- AutoUpdate engaged	1	on_contacts	Contacts.script
+2023-05-16 10:51:54.679 -0500	Exception	Contacts_Icon	No Image Found On Screen: "Contacts_Icon"	1	on_contacts	Contacts.script
+2023-05-16 10:51:54.699 -0500	EndTestCase		(Duration:"13.277", Errors:"1", Exceptions:"1", StartTime:"2023-05-16 10:51:41 -0500", Successes:"0", TestCase:"Master.script", Warnings:"1")
+2023-05-16 10:51:54.848 -0500	FAILURE	Screen_Error.png	Image Not Found: click Error - No Image Found On Screen: "Contacts_Icon" -- Execution Time 0:00:13 Master.script

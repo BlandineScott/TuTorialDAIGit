@@ -1,0 +1,28 @@
+{
+	"entries": [
+		{
+				"message": "Running Master.script",
+				"identifier": "START",
+				"timestamp": "2023-05-26 09:04:11.525 -0500"
+			},
+		{
+				"handlerName": "on_contacts",
+				"timestamp": "2023-05-26 09:04:11.740 -0500",
+				"message": "Remote Connection Unavailable",
+				"scriptName": "TutorialMobile/Contacts.script",
+				"handlerLine": 1,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"0.233\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2023-05-26 09:04:11 -0500\", Successes:\"0\", TestCase:\"Master.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-05-26 09:04:11.764 -0500"
+			},
+		{
+				"message": "No Remote Connection: click Error - Remote Connection Unavailable -- Execution Time 0:00:00 Master.script",
+				"identifier": "FAILURE",
+				"timestamp": "2023-05-26 09:04:11.812 -0500"
+			}
+	],
+	"createdTimestamp": "2023-05-26 09:04:11.529 -0500"
+}

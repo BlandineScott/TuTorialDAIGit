@@ -1,0 +1,47 @@
+{
+	"entries": [
+		{
+				"handlerName": "on_master2",
+				"timestamp": "2023-04-18 16:53:05.356 -0500",
+				"message": "Final Results:",
+				"scriptName": "Master2.script",
+				"handlerLine": 17,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_master2",
+				"timestamp": "2023-04-18 16:53:05.361 -0500",
+				"message": "Contacts: Success ",
+				"scriptName": "Master2.script",
+				"handlerLine": 19,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_master2",
+				"timestamp": "2023-04-18 16:53:05.364 -0500",
+				"message": "Downloads: Success ",
+				"scriptName": "Master2.script",
+				"handlerLine": 19,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_master2",
+				"timestamp": "2023-04-18 16:53:05.368 -0500",
+				"message": "History: Success ",
+				"scriptName": "Master2.script",
+				"handlerLine": 19,
+				"identifier": "Log"
+			},
+		{
+				"message": "(Duration:\"2.658\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2023-04-18 16:53:02 -0500\", Successes:\"5\", TestCase:\"Master2.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-04-18 16:53:05.398 -0500"
+			},
+		{
+				"message": "Execution Time 0:00:02 Master2.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2023-04-18 16:53:05.458 -0500"
+			}
+	],
+	"createdTimestamp": "2023-04-18 16:53:05.361 -0500"
+}

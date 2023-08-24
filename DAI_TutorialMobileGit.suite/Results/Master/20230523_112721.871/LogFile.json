@@ -1,0 +1,21 @@
+{
+	"entries": [
+		{
+				"message": "Running Master.script",
+				"identifier": "START",
+				"timestamp": "2023-05-23 11:27:21.877 -0500"
+			},
+		{
+				"message": "(Duration:\"0.115\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2023-05-23 11:27:21 -0500\", Successes:\"0\", TestCase:\"Master.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-05-23 11:27:21.996 -0500"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "STUnknownMessage: ERROR: No Such Command: 'connection' -- Execution Time 0:00:00 Master.script",
+				"identifier": "FAILURE",
+				"timestamp": "2023-05-23 11:27:22.122 -0500"
+			}
+	],
+	"createdTimestamp": "2023-05-23 11:27:21.880 -0500"
+}

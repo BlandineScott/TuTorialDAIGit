@@ -1,0 +1,164 @@
+{
+	"entries": [
+		{
+				"message": "Running Master.script",
+				"identifier": "START",
+				"timestamp": "2023-05-23 11:28:37.267 -0500"
+			},
+		{
+				"handlerName": "on_contacts",
+				"timestamp": "2023-05-23 11:28:37.532 -0500",
+				"scriptName": "TutorialMobile/Contacts.script",
+				"message": "at (53, 600)",
+				"image": "TutorialMobile/Contacts_Icon",
+				"handlerLine": 1,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_contacts",
+				"timestamp": "2023-05-23 11:28:37.604 -0500",
+				"scriptName": "TutorialMobile/Contacts.script",
+				"image": "Contacts_Screen_Validation.png",
+				"handlerLine": 2,
+				"identifier": "capturescreen"
+			},
+		{
+				"handlerName": "on_contacts",
+				"timestamp": "2023-05-23 11:28:38.508 -0500",
+				"scriptName": "TutorialMobile/Contacts.script",
+				"message": "found at (105, 213)",
+				"image": "(TEXT:\"Not a real phone\")",
+				"handlerLine": 3,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_contacts",
+				"timestamp": "2023-05-23 11:28:38.510 -0500",
+				"message": "Assertion Succeeded: (true: imagefound(text:\"Not a real phone\"))",
+				"scriptName": "TutorialMobile/Contacts.script",
+				"handlerLine": 3,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_downloads",
+				"timestamp": "2023-05-23 11:28:39.002 -0500",
+				"scriptName": "TutorialMobile/Downloads.script",
+				"message": "at (372, 602)",
+				"image": "TutorialMobile/Downloads_Icon",
+				"handlerLine": 1,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_downloads",
+				"timestamp": "2023-05-23 11:28:39.064 -0500",
+				"scriptName": "TutorialMobile/Downloads.script",
+				"image": "Downloads_Screen_Validation.png",
+				"handlerLine": 2,
+				"identifier": "capturescreen"
+			},
+		{
+				"handlerName": "on_downloads",
+				"timestamp": "2023-05-23 11:28:39.844 -0500",
+				"scriptName": "TutorialMobile/Downloads.script",
+				"message": "found at (113, 213)",
+				"image": "(TEXT:\"The phone is a lie.\")",
+				"handlerLine": 3,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_downloads",
+				"timestamp": "2023-05-23 11:28:39.846 -0500",
+				"message": "Assertion Succeeded: (true: imagefound(text:\"The phone is a lie.\"))",
+				"scriptName": "TutorialMobile/Downloads.script",
+				"handlerLine": 3,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_favorites",
+				"timestamp": "2023-05-23 11:28:40.070 -0500",
+				"scriptName": "TutorialMobile/Favorites.script",
+				"message": "at (160, 604)",
+				"image": "TutorialMobile/Favorites_Icon",
+				"handlerLine": 1,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_favorites",
+				"timestamp": "2023-05-23 11:28:40.144 -0500",
+				"scriptName": "TutorialMobile/Favorites.script",
+				"image": "Favorites_Screen_Validation.png",
+				"handlerLine": 2,
+				"identifier": "capturescreen"
+			},
+		{
+				"handlerName": "on_favorites",
+				"timestamp": "2023-05-23 11:28:40.915 -0500",
+				"scriptName": "TutorialMobile/Favorites.script",
+				"message": "found at (125, 213)",
+				"image": "(TEXT:\"Still not a real phone\")",
+				"handlerLine": 3,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_favorites",
+				"timestamp": "2023-05-23 11:28:40.918 -0500",
+				"message": "Assertion Succeeded: (true: imagefound(text:\"Still not a real phone\"))",
+				"scriptName": "TutorialMobile/Favorites.script",
+				"handlerLine": 3,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_history",
+				"timestamp": "2023-05-23 11:28:41.147 -0500",
+				"scriptName": "TutorialMobile/History.script",
+				"message": "at (267, 602)",
+				"image": "TutorialMobile/History_Icon",
+				"handlerLine": 1,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_history",
+				"timestamp": "2023-05-23 11:28:41.221 -0500",
+				"scriptName": "TutorialMobile/History.script",
+				"image": "History_Screen_Validation.png",
+				"handlerLine": 2,
+				"identifier": "capturescreen"
+			},
+		{
+				"handlerName": "on_history",
+				"timestamp": "2023-05-23 11:28:41.984 -0500",
+				"scriptName": "TutorialMobile/History.script",
+				"message": "found at (78, 213)",
+				"image": "(TEXT:\"Totally fake.\")",
+				"handlerLine": 3,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_history",
+				"timestamp": "2023-05-23 11:28:41.987 -0500",
+				"message": "Assertion Succeeded: (true: imagefound(text:\"Totally fake.\"))",
+				"scriptName": "TutorialMobile/History.script",
+				"handlerLine": 3,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_endscript",
+				"timestamp": "2023-05-23 11:28:42.004 -0500",
+				"message": "The test has ended.",
+				"scriptName": "TutorialMobile/EndScript.script",
+				"handlerLine": 1,
+				"identifier": "Log"
+			},
+		{
+				"message": "(Duration:\"4.751\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2023-05-23 11:28:37 -0500\", Successes:\"4\", TestCase:\"Master.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-05-23 11:28:42.024 -0500"
+			},
+		{
+				"message": "Execution Time 0:00:04 Master.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2023-05-23 11:28:42.044 -0500"
+			}
+	],
+	"createdTimestamp": "2023-05-23 11:28:37.272 -0500"
+}

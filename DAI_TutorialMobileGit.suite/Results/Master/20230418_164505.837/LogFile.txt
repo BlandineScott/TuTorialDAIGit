@@ -1,0 +1,14 @@
+﻿2023-04-18 16:45:05.842 -0500	START		Running Master.script
+2023-04-18 16:45:06.197 -0500	Connect		TutorialSUT:(null)	5	on_connection	Connection.script
+2023-04-18 16:45:07.074 -0500	click	Contacts_Icon	at (53, 600)	1	on_contacts	Contacts.script
+2023-04-18 16:45:07.902 -0500	imagefound	(TEXT:"Not a real phone")	found at (105, 213)	2	on_contacts	Contacts.script
+2023-04-18 16:45:07.906 -0500	LogSuccess		Assertion Succeeded: (true: imagefound(text:"Not a real phone"))	2	on_contacts	Contacts.script
+2023-04-18 16:45:08.336 -0500	click	Favorites_Icon	at (160, 604)	1	on_favorites	Favorites.script
+2023-04-18 16:45:09.177 -0500	imagefound	(TEXT:"Still not a real phone")	found at (125, 213)	2	on_favorites	Favorites.script
+2023-04-18 16:45:09.182 -0500	LogSuccess		Assertion Succeeded: (true: imagefound(text:"Still not a real phone"))	2	on_favorites	Favorites.script
+2023-04-18 16:45:09.459 -0500	click	History_Icon	at (267, 602)	1	on_history	History.script
+2023-04-18 16:45:10.324 -0500	imagefound	(TEXT:"Totally fake.")	found at (78, 213)	2	on_history	History.script
+2023-04-18 16:45:10.327 -0500	LogSuccess		Assertion Succeeded: (true: imagefound(text:"Totally fake."))	2	on_history	History.script
+2023-04-18 16:45:10.362 -0500	Log		The test has ended.	1	on_endscript	EndScript.script
+2023-04-18 16:45:10.409 -0500	EndTestCase		(Duration:"4.562", Errors:"0", Exceptions:"0", StartTime:"2023-04-18 16:45:05 -0500", Successes:"3", TestCase:"Master.script", Warnings:"0")
+2023-04-18 16:45:10.460 -0500	SUCCESS		Execution Time 0:00:04 Master.script

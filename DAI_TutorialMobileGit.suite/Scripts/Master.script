@@ -1,0 +1,10 @@
+﻿Connect "TutorialSUT"
+
+Run "TutorialMobile/Contacts"
+Run "TutorialMobile/Downloads"
+Run "TutorialMobile/Favorites"
+Run "TutorialMobile/History"
+
+Run "TutorialMobile/EndScript"
+
+Disconnect "TutorialSUT"

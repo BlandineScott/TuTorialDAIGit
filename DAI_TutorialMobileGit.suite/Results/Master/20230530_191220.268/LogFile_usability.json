@@ -1,0 +1,113 @@
+{
+	"entries": [
+		{
+				"handlerName": "on_contacts",
+				"success": true,
+				"timestamp": "2023-05-30 19:12:21.311 -0500",
+				"scriptName": "TutorialMobile/Contacts.script",
+				"message": "Target: TutorialMobile/Contacts_Icon did not move within time window of 0.7s",
+				"handlerLine": 1,
+				"identifier": "movingTarget"
+			},
+		{
+				"handlerName": "on_contacts",
+				"success": true,
+				"timestamp": "2023-05-30 19:12:21.994 -0500",
+				"scriptName": "TutorialMobile/Contacts.script",
+				"message": "click on TutorialMobile/Contacts_Icon produced visual feedback",
+				"handlerLine": 1,
+				"identifier": "feedbackResponse"
+			},
+		{
+				"handlerName": "on_contacts",
+				"success": true,
+				"timestamp": "2023-05-30 19:12:23.651 -0500",
+				"scriptName": "TutorialMobile/Contacts.script",
+				"message": "Target: (TEXT:\"Not a real phone\") did not move within time window of 0.7s",
+				"handlerLine": 3,
+				"identifier": "movingTarget"
+			},
+		{
+				"handlerName": "on_downloads",
+				"success": true,
+				"timestamp": "2023-05-30 19:12:24.534 -0500",
+				"scriptName": "TutorialMobile/Downloads.script",
+				"message": "Target: TutorialMobile/Downloads_Icon did not move within time window of 0.7s",
+				"handlerLine": 1,
+				"identifier": "movingTarget"
+			},
+		{
+				"handlerName": "on_downloads",
+				"success": true,
+				"timestamp": "2023-05-30 19:12:25.224 -0500",
+				"scriptName": "TutorialMobile/Downloads.script",
+				"message": "click on TutorialMobile/Downloads_Icon produced visual feedback",
+				"handlerLine": 1,
+				"identifier": "feedbackResponse"
+			},
+		{
+				"handlerName": "on_downloads",
+				"success": true,
+				"timestamp": "2023-05-30 19:12:26.832 -0500",
+				"scriptName": "TutorialMobile/Downloads.script",
+				"message": "Target: (TEXT:\"The phone is a lie.\") did not move within time window of 0.7s",
+				"handlerLine": 3,
+				"identifier": "movingTarget"
+			},
+		{
+				"handlerName": "on_favorites",
+				"success": true,
+				"timestamp": "2023-05-30 19:12:27.709 -0500",
+				"scriptName": "TutorialMobile/Favorites.script",
+				"message": "Target: TutorialMobile/Favorites_Icon did not move within time window of 0.7s",
+				"handlerLine": 1,
+				"identifier": "movingTarget"
+			},
+		{
+				"handlerName": "on_favorites",
+				"success": true,
+				"timestamp": "2023-05-30 19:12:28.398 -0500",
+				"scriptName": "TutorialMobile/Favorites.script",
+				"message": "click on TutorialMobile/Favorites_Icon produced visual feedback",
+				"handlerLine": 1,
+				"identifier": "feedbackResponse"
+			},
+		{
+				"handlerName": "on_favorites",
+				"success": true,
+				"timestamp": "2023-05-30 19:12:30.054 -0500",
+				"scriptName": "TutorialMobile/Favorites.script",
+				"message": "Target: (TEXT:\"Still not a real phone\") did not move within time window of 0.7s",
+				"handlerLine": 3,
+				"identifier": "movingTarget"
+			},
+		{
+				"handlerName": "on_history",
+				"success": true,
+				"timestamp": "2023-05-30 19:12:30.907 -0500",
+				"scriptName": "TutorialMobile/History.script",
+				"message": "Target: TutorialMobile/History_Icon did not move within time window of 0.7s",
+				"handlerLine": 1,
+				"identifier": "movingTarget"
+			},
+		{
+				"handlerName": "on_history",
+				"success": true,
+				"timestamp": "2023-05-30 19:12:31.589 -0500",
+				"scriptName": "TutorialMobile/History.script",
+				"message": "click on TutorialMobile/History_Icon produced visual feedback",
+				"handlerLine": 1,
+				"identifier": "feedbackResponse"
+			},
+		{
+				"handlerName": "on_history",
+				"success": true,
+				"timestamp": "2023-05-30 19:12:33.221 -0500",
+				"scriptName": "TutorialMobile/History.script",
+				"message": "Target: (TEXT:\"Totally fake.\") did not move within time window of 0.7s",
+				"handlerLine": 3,
+				"identifier": "movingTarget"
+			}
+	],
+	"createdTimestamp": "2023-05-30 19:12:20.273 -0500"
+}

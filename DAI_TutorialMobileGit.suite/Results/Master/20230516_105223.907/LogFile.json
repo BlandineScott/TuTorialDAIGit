@@ -1,0 +1,88 @@
+{
+	"entries": [
+		{
+				"message": "Running Master.script",
+				"identifier": "START",
+				"timestamp": "2023-05-16 10:52:23.911 -0500"
+			},
+		{
+				"handlerName": "on_connection",
+				"timestamp": "2023-05-16 10:52:24.016 -0500",
+				"message": "TutorialSUT:(null)",
+				"scriptName": "Connection.script",
+				"handlerLine": 4,
+				"identifier": "Connect"
+			},
+		{
+				"handlerName": "on_contacts",
+				"timestamp": "2023-05-16 10:52:24.748 -0500",
+				"scriptName": "Contacts.script",
+				"message": "at (53, 600)",
+				"image": "Contacts_Icon",
+				"handlerLine": 1,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_contacts",
+				"timestamp": "2023-05-16 10:52:25.606 -0500",
+				"scriptName": "Contacts.script",
+				"message": "found at (105, 213)",
+				"image": "(TEXT:\"Not a real phone\")",
+				"handlerLine": 2,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_contacts",
+				"timestamp": "2023-05-16 10:52:25.608 -0500",
+				"message": "Assertion Succeeded: (true: imagefound(text:\"Not a real phone\"))",
+				"scriptName": "Contacts.script",
+				"handlerLine": 2,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_favorites",
+				"timestamp": "2023-05-16 10:52:25.828 -0500",
+				"scriptName": "Favorites.script",
+				"message": "at (160, 604)",
+				"image": "Favorites_Icon",
+				"handlerLine": 1,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_favorites",
+				"timestamp": "2023-05-16 10:52:26.667 -0500",
+				"scriptName": "Favorites.script",
+				"message": "found at (125, 213)",
+				"image": "(TEXT:\"Still not a real phone\")",
+				"handlerLine": 2,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_favorites",
+				"timestamp": "2023-05-16 10:52:26.669 -0500",
+				"message": "Assertion Succeeded: (true: imagefound(text:\"Still not a real phone\"))",
+				"scriptName": "Favorites.script",
+				"handlerLine": 2,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_endscript",
+				"timestamp": "2023-05-16 10:52:26.684 -0500",
+				"message": "The test has ended.",
+				"scriptName": "EndScript.script",
+				"handlerLine": 1,
+				"identifier": "Log"
+			},
+		{
+				"message": "(Duration:\"2.787\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2023-05-16 10:52:23 -0500\", Successes:\"2\", TestCase:\"Master.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-05-16 10:52:26.703 -0500"
+			},
+		{
+				"message": "Execution Time 0:00:02 Master.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2023-05-16 10:52:26.742 -0500"
+			}
+	],
+	"createdTimestamp": "2023-05-16 10:52:23.914 -0500"
+}

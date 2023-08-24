@@ -1,0 +1,29 @@
+{
+	"entries": [
+		{
+				"handlerName": "on_master2",
+				"timestamp": "2023-04-18 16:52:04.348 -0500",
+				"message": "Running Connection.script",
+				"scriptName": "Master2.script",
+				"handlerLine": 2,
+				"identifier": "START"
+			},
+		{
+				"handlerName": "on_master2",
+				"timestamp": "2023-04-18 16:52:04.367 -0500",
+				"message": "(Duration:\"0.016\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2023-04-18 16:52:04 -0500\", Successes:\"1\", TestCase:\"Connection.script\", Warnings:\"0\")",
+				"scriptName": "Master2.script",
+				"handlerLine": 2,
+				"identifier": "EndTestCase"
+			},
+		{
+				"handlerName": "on_master2",
+				"timestamp": "2023-04-18 16:52:04.408 -0500",
+				"message": "Execution Time 0:00:00 Connection.script",
+				"scriptName": "Master2.script",
+				"handlerLine": 2,
+				"identifier": "SUCCESS"
+			}
+	],
+	"createdTimestamp": "2023-04-18 16:52:04.350 -0500"
+}

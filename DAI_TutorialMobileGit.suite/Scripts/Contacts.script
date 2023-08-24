@@ -1,0 +1,2 @@
+﻿Click (Image:"Contacts_Icon", WaitFor:10)
+Assert that imagefound(text:"Not a real phone")

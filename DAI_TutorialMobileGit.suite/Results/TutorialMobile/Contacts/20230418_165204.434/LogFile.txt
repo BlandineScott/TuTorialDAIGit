@@ -1,0 +1,6 @@
+﻿2023-04-18 16:52:04.441 -0500	START		Running Contacts.script	10	on_master2	Master2.script
+2023-04-18 16:52:04.688 -0500	click	Contacts_Icon	at (53, 595)	1	on_contacts	Contacts.script
+2023-04-18 16:52:05.498 -0500	imagefound	(TEXT:"Not a real phone")	found at (105, 213)	2	on_contacts	Contacts.script
+2023-04-18 16:52:05.500 -0500	LogSuccess		Assertion Succeeded: (true: imagefound(text:"Not a real phone"))	2	on_contacts	Contacts.script
+2023-04-18 16:52:05.504 -0500	EndTestCase		(Duration:"1.061", Errors:"0", Exceptions:"0", StartTime:"2023-04-18 16:52:04 -0500", Successes:"1", TestCase:"Contacts.script", Warnings:"0")	10	on_master2	Master2.script
+2023-04-18 16:52:05.552 -0500	SUCCESS		Execution Time 0:00:01 Contacts.script	10	on_master2	Master2.script

@@ -1,0 +1,8 @@
+﻿2023-05-18 13:11:45.931 -0500	START		Running Workflow/Downloads_Workflow.script
+2023-05-18 13:11:46.207 -0500	click	Downloads_Icon	at (370, 600)	1	on_downloads	Downloads.script
+2023-05-18 13:11:46.231 -0500	capturescreen	C:/Eggplant/DAI_TutorialMobile.suite/Results/Workflow/Downloads_Workflow/20230518_131145.925/Downloads_Screen_Validation.png	UserCapturedScreenshot	DDD88F8A-3EC0-B808-6938-59471886617D	2	on_downloads	Downloads.script
+2023-05-18 13:11:47.027 -0500	imagefound	(TEXT:"The phone is a lie.")	found at (113, 213)	3	on_downloads	Downloads.script
+2023-05-18 13:11:47.029 -0500	LogSuccess		Assertion Succeeded: (true: imagefound(text:"The phone is a lie."))	3	on_downloads	Downloads.script
+2023-05-18 13:11:47.050 -0500	Log		The test has ended.	1	on_endscript	EndScript.script
+2023-05-18 13:11:47.078 -0500	EndTestCase		(Duration:"1.143", Errors:"0", Exceptions:"0", StartTime:"2023-05-18 13:11:45 -0500", Successes:"1", TestCase:"Workflow/Downloads_Workflow.script", Warnings:"0")
+2023-05-18 13:11:47.145 -0500	SUCCESS		Execution Time 0:00:01 Workflow/Downloads_Workflow.script

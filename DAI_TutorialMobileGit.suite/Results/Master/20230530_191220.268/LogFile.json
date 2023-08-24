@@ -1,0 +1,269 @@
+{
+	"entries": [
+		{
+				"message": "Running Master.script in Usability Mode",
+				"identifier": "START",
+				"timestamp": "2023-05-30 19:12:20.273 -0500"
+			},
+		{
+				"handlerName": "on_contacts",
+				"timestamp": "2023-05-30 19:12:21.308 -0500",
+				"message": "Target: TutorialMobile/Contacts_Icon did not move within time window of 0.7s",
+				"scriptName": "TutorialMobile/Contacts.script",
+				"handlerLine": 1,
+				"identifier": "Usability"
+			},
+		{
+				"handlerName": "on_contacts",
+				"timestamp": "2023-05-30 19:12:21.989 -0500",
+				"scriptName": "TutorialMobile/Contacts.script",
+				"message": "at (53, 595)",
+				"image": "TutorialMobile/Contacts_Icon",
+				"handlerLine": 1,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_contacts",
+				"timestamp": "2023-05-30 19:12:21.992 -0500",
+				"message": "click on TutorialMobile/Contacts_Icon produced visual feedback",
+				"scriptName": "TutorialMobile/Contacts.script",
+				"handlerLine": 1,
+				"identifier": "Usability"
+			},
+		{
+				"handlerName": "on_contacts",
+				"timestamp": "2023-05-30 19:12:22.059 -0500",
+				"scriptName": "TutorialMobile/Contacts.script",
+				"message": "UserCapturedScreenshot",
+				"image": "C:/Eggplant/DAI_TutorialMobile.suite/Results/Master/20230530_191220.268/Contacts_Screen_Validation.png",
+				"handlerLine": 2,
+				"identifier": "capturescreen"
+			},
+		{
+				"handlerName": "on_contacts",
+				"timestamp": "2023-05-30 19:12:23.648 -0500",
+				"message": "Target: (TEXT:\"Not a real phone\") did not move within time window of 0.7s",
+				"scriptName": "TutorialMobile/Contacts.script",
+				"handlerLine": 3,
+				"identifier": "Usability"
+			},
+		{
+				"handlerName": "on_contacts",
+				"timestamp": "2023-05-30 19:12:23.651 -0500",
+				"scriptName": "TutorialMobile/Contacts.script",
+				"message": "found at (105, 213)",
+				"image": "(TEXT:\"Not a real phone\")",
+				"handlerLine": 3,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_contacts",
+				"timestamp": "2023-05-30 19:12:23.653 -0500",
+				"message": "Assertion Succeeded: (true: imagefound(text:\"Not a real phone\"))",
+				"scriptName": "TutorialMobile/Contacts.script",
+				"handlerLine": 3,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_downloads",
+				"timestamp": "2023-05-30 19:12:24.531 -0500",
+				"message": "Target: TutorialMobile/Downloads_Icon did not move within time window of 0.7s",
+				"scriptName": "TutorialMobile/Downloads.script",
+				"handlerLine": 1,
+				"identifier": "Usability"
+			},
+		{
+				"handlerName": "on_downloads",
+				"timestamp": "2023-05-30 19:12:25.217 -0500",
+				"scriptName": "TutorialMobile/Downloads.script",
+				"message": "at (372, 602)",
+				"image": "TutorialMobile/Downloads_Icon",
+				"handlerLine": 1,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_downloads",
+				"timestamp": "2023-05-30 19:12:25.222 -0500",
+				"message": "click on TutorialMobile/Downloads_Icon produced visual feedback",
+				"scriptName": "TutorialMobile/Downloads.script",
+				"handlerLine": 1,
+				"identifier": "Usability"
+			},
+		{
+				"handlerName": "on_downloads",
+				"timestamp": "2023-05-30 19:12:25.294 -0500",
+				"scriptName": "TutorialMobile/Downloads.script",
+				"message": "UserCapturedScreenshot",
+				"image": "C:/Eggplant/DAI_TutorialMobile.suite/Results/Master/20230530_191220.268/Downloads_Screen_Validation.png",
+				"handlerLine": 2,
+				"identifier": "capturescreen"
+			},
+		{
+				"handlerName": "on_downloads",
+				"timestamp": "2023-05-30 19:12:26.829 -0500",
+				"message": "Target: (TEXT:\"The phone is a lie.\") did not move within time window of 0.7s",
+				"scriptName": "TutorialMobile/Downloads.script",
+				"handlerLine": 3,
+				"identifier": "Usability"
+			},
+		{
+				"handlerName": "on_downloads",
+				"timestamp": "2023-05-30 19:12:26.832 -0500",
+				"scriptName": "TutorialMobile/Downloads.script",
+				"message": "found at (113, 213)",
+				"image": "(TEXT:\"The phone is a lie.\")",
+				"handlerLine": 3,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_downloads",
+				"timestamp": "2023-05-30 19:12:26.834 -0500",
+				"message": "Assertion Succeeded: (true: imagefound(text:\"The phone is a lie.\"))",
+				"scriptName": "TutorialMobile/Downloads.script",
+				"handlerLine": 3,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_favorites",
+				"timestamp": "2023-05-30 19:12:27.706 -0500",
+				"message": "Target: TutorialMobile/Favorites_Icon did not move within time window of 0.7s",
+				"scriptName": "TutorialMobile/Favorites.script",
+				"handlerLine": 1,
+				"identifier": "Usability"
+			},
+		{
+				"handlerName": "on_favorites",
+				"timestamp": "2023-05-30 19:12:28.393 -0500",
+				"scriptName": "TutorialMobile/Favorites.script",
+				"message": "at (160, 604)",
+				"image": "TutorialMobile/Favorites_Icon",
+				"handlerLine": 1,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_favorites",
+				"timestamp": "2023-05-30 19:12:28.396 -0500",
+				"message": "click on TutorialMobile/Favorites_Icon produced visual feedback",
+				"scriptName": "TutorialMobile/Favorites.script",
+				"handlerLine": 1,
+				"identifier": "Usability"
+			},
+		{
+				"handlerName": "on_favorites",
+				"timestamp": "2023-05-30 19:12:28.467 -0500",
+				"scriptName": "TutorialMobile/Favorites.script",
+				"message": "UserCapturedScreenshot",
+				"image": "C:/Eggplant/DAI_TutorialMobile.suite/Results/Master/20230530_191220.268/Favorites_Screen_Validation.png",
+				"handlerLine": 2,
+				"identifier": "capturescreen"
+			},
+		{
+				"handlerName": "on_favorites",
+				"timestamp": "2023-05-30 19:12:30.051 -0500",
+				"message": "Target: (TEXT:\"Still not a real phone\") did not move within time window of 0.7s",
+				"scriptName": "TutorialMobile/Favorites.script",
+				"handlerLine": 3,
+				"identifier": "Usability"
+			},
+		{
+				"handlerName": "on_favorites",
+				"timestamp": "2023-05-30 19:12:30.054 -0500",
+				"scriptName": "TutorialMobile/Favorites.script",
+				"message": "found at (125, 213)",
+				"image": "(TEXT:\"Still not a real phone\")",
+				"handlerLine": 3,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_favorites",
+				"timestamp": "2023-05-30 19:12:30.057 -0500",
+				"message": "Assertion Succeeded: (true: imagefound(text:\"Still not a real phone\"))",
+				"scriptName": "TutorialMobile/Favorites.script",
+				"handlerLine": 3,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_history",
+				"timestamp": "2023-05-30 19:12:30.903 -0500",
+				"message": "Target: TutorialMobile/History_Icon did not move within time window of 0.7s",
+				"scriptName": "TutorialMobile/History.script",
+				"handlerLine": 1,
+				"identifier": "Usability"
+			},
+		{
+				"handlerName": "on_history",
+				"timestamp": "2023-05-30 19:12:31.584 -0500",
+				"scriptName": "TutorialMobile/History.script",
+				"message": "at (267, 602)",
+				"image": "TutorialMobile/History_Icon",
+				"handlerLine": 1,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_history",
+				"timestamp": "2023-05-30 19:12:31.587 -0500",
+				"message": "click on TutorialMobile/History_Icon produced visual feedback",
+				"scriptName": "TutorialMobile/History.script",
+				"handlerLine": 1,
+				"identifier": "Usability"
+			},
+		{
+				"handlerName": "on_history",
+				"timestamp": "2023-05-30 19:12:31.661 -0500",
+				"scriptName": "TutorialMobile/History.script",
+				"message": "UserCapturedScreenshot",
+				"image": "C:/Eggplant/DAI_TutorialMobile.suite/Results/Master/20230530_191220.268/History_Screen_Validation.png",
+				"handlerLine": 2,
+				"identifier": "capturescreen"
+			},
+		{
+				"handlerName": "on_history",
+				"timestamp": "2023-05-30 19:12:33.217 -0500",
+				"message": "Target: (TEXT:\"Totally fake.\") did not move within time window of 0.7s",
+				"scriptName": "TutorialMobile/History.script",
+				"handlerLine": 3,
+				"identifier": "Usability"
+			},
+		{
+				"handlerName": "on_history",
+				"timestamp": "2023-05-30 19:12:33.221 -0500",
+				"scriptName": "TutorialMobile/History.script",
+				"message": "found at (78, 213)",
+				"image": "(TEXT:\"Totally fake.\")",
+				"handlerLine": 3,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_history",
+				"timestamp": "2023-05-30 19:12:33.223 -0500",
+				"message": "Assertion Succeeded: (true: imagefound(text:\"Totally fake.\"))",
+				"scriptName": "TutorialMobile/History.script",
+				"handlerLine": 3,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_endscript",
+				"timestamp": "2023-05-30 19:12:33.244 -0500",
+				"message": "The test has ended.",
+				"scriptName": "TutorialMobile/EndScript.script",
+				"handlerLine": 1,
+				"identifier": "Log"
+			},
+		{
+				"message": "(Duration:\"12.999\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2023-05-30 19:12:20 -0500\", Successes:\"4\", TestCase:\"Master.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-05-30 19:12:33.278 -0500"
+			},
+		{
+				"message": "Usability Tests: 12, Usability Warnings: 0, feedbackResponse Tests: 4 Warnings: 0, movingTarget Tests: 8 Warnings: 0",
+				"identifier": "UsabilitySummary",
+				"timestamp": "2023-05-30 19:12:33.280 -0500"
+			},
+		{
+				"message": "Execution Time 0:00:13 Master.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2023-05-30 19:12:33.322 -0500"
+			}
+	],
+	"createdTimestamp": "2023-05-30 19:12:20.278 -0500"
+}

@@ -1,0 +1,35 @@
+{
+	"entries": [
+		{
+				"message": "Running Master2.script",
+				"identifier": "START",
+				"timestamp": "2023-04-18 16:50:20.682 -0500"
+			},
+		{
+				"handlerName": "on_master2",
+				"timestamp": "2023-04-18 16:50:20.749 -0500",
+				"message": "Unable to locate script named: InitialTest",
+				"scriptName": "Master2.script",
+				"handlerLine": 2,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"0.101\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2023-04-18 16:50:20 -0500\", Successes:\"0\", TestCase:\"Master2.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-04-18 16:50:20.786 -0500"
+			},
+		{
+				"image": "C:/Eggplant/DAI_TutorialMobile.suite/Results/Master2/20230418_165020.678/Screen_Error.png",
+				"message": "CapturedErrorScreenshot",
+				"identifier": "Error Screen",
+				"timestamp": "2023-04-18 16:50:20.862 -0500"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "Error Running Script Command: runwithnewresults Error - Unable to locate script named: InitialTest -- Execution Time 0:00:00 Master2.script",
+				"identifier": "FAILURE",
+				"timestamp": "2023-04-18 16:50:20.866 -0500"
+			}
+	],
+	"createdTimestamp": "2023-04-18 16:50:20.685 -0500"
+}
